@@ -10,5 +10,6 @@ public class Pausa {
 
     String formattedDate = myDateObj.format(myFormatObj);
     System.out.println("Data Formattata: " + formattedDate);
+    System.out.println("Footer");
   }
 }
